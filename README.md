@@ -8,9 +8,7 @@
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
 </p>
 
-## Run the App  
-[👉 Open `certificate_app.py`](./certificate_app.py)  \
-
 <div align="center">
   <p><a href="LICENSE">License</a></p>
+
 </div>
